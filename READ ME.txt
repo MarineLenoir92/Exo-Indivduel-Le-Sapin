@@ -1,0 +1,36 @@
+Sapin
+
+
+- Langage imposé : JavaScript
+
+- Description exercice : Le but est de construire dans un graphisme des plus basique, un sapin de plusieurs étages. 
+
+- Objectif : Manipuler les boucles, l’imbrication des boucles et la récursivité. 
+
+- Exercice Individuel
+
+
+
+Écrivez une fonction "sapin", qui prend en entrée un nombre entier et qui affiche un sapin, avec la logique suivante :
+
+sapin(1) affiche à l'écran :
+  +
+ /*\
+/***\
+
+sapin(2) affiche à l'écran :
+
+   +
+  /*\
+ /***\
+/*****\
+
+sapin(5) affiche à l'écran :
+      + 
+     /*\
+    /***\
+   /*****\
+  /*******\
+ /*********\
+/***********\
+
